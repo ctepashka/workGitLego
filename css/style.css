@@ -132,3 +132,15 @@ button {
     width: 235px;
     margin: 10px 0;
 }
+
+input{
+    width: 400px;
+    height: 40px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+textarea{
+    width: 800px;
+    height: 300px;
+}
